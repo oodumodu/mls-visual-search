@@ -21,7 +21,7 @@ Unlike traditional filters (Price, Beds, Baths), this project uses **Multimodal 
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/mls-visual-search.git](https://github.com/YOUR_USERNAME/mls-visual-search.git)
+    git clone [https://github.com/oodumodu/mls-visual-search.git](https://github.com/oodumodu/mls-visual-search.git)
     cd mls-visual-search
     ```
 
