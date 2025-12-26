@@ -2,7 +2,7 @@
 
 An intelligent real estate search engine that allows users to search for homes using natural language descriptions of visual features (e.g., "brick house," "modern kitchen," "large yard"). 
 
-Unlike traditional filters (Price, Beds, Baths), this project uses **Multimodal AI (CLIP)** to "see" listing photos and index them into a local vector database.
+Unlike traditional filters (Price, Beds, Baths), this project uses **Multimodal AI (OpenAI CLIP)** to "see" listing photos and index them into a local vector database.
 
 ## 🚀 How It Works
 1.  **Ingestion:** The system pulls live real estate data from the SimplyRETS Demo API.
