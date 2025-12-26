@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+venv/
+.env
+
+# Ignore the vector database (Too big for GitHub)
+mls_vector_db/
+chroma_db/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
