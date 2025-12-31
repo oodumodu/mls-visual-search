@@ -4,7 +4,7 @@ import chromadb
 chroma_client = chromadb.PersistentClient(path="./mls_vector_db")
 collection = chroma_client.get_collection(name="mls_listings")
 
-# Get all data (limit to 25 just to be safe, though you have 20)
+# Get all data (limit to 25 just to be safe)
 results = collection.get(limit=25)
 metadatas = results['metadatas']
 
